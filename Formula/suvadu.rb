@@ -3,7 +3,7 @@ class Suvadu < Formula
   homepage "https://www.appachi.tech/suvadu/"
   version "0.1.0"
   url "https://downloads.appachi.tech/macos/archive/suv-macos-v0.1.0.tar.gz"
-  sha256 "bd2cca594cb82e8505a35977ab4e06896eb23fb8be77f41d2f7505e8d289eb26"
+  sha256 "18ffdbb78cce51674affc38c7df264b3f4f6027d556ba26eb47416e9165b1550"
 
   def install
     bin.install "suv"
