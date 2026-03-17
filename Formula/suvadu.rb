@@ -1,9 +1,9 @@
 class Suvadu < Formula
   desc "Total recall for your terminal."
   homepage "https://www.appachi.tech/suvadu/"
-  version "0.1.3"
-  url "https://downloads.appachi.tech/macos/archive/suv-macos-v0.1.3.tar.gz"
-  sha256 "2d4dd239696107d650e8c2ab77aff4932df353566b8ec31024f511290c9dd014"
+  version "0.1.4"
+  url "https://downloads.appachi.tech/macos/archive/suv-macos-v0.1.4.tar.gz"
+  sha256 "2ca5394eae2cd8b21fb67b027558395c122abf5a0bb864304e084a9d02c5539a"
 
   def install
     bin.install "suv"
